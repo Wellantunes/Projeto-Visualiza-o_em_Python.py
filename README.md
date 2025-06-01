@@ -15,8 +15,6 @@ Aqui você encontrará uma aplicação interativa que analisa dados de avaliaç�
 💾 CSV – Fonte dos dados para análise
 
 🔢 Numpy – Processamento numérico
-
-
 #
 
 
