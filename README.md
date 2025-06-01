@@ -16,17 +16,25 @@ Aqui você encontrará uma aplicação interativa que analisa dados de avaliaç�
 
 🔢 Numpy – Processamento numérico
 
+#
 
 🎯 Objetivo do Projeto
 Construir um dashboard interativo para visualizar e explorar dados estatísticos de um e-commerce, facilitando a interpretação das avaliações dos produtos, descontos aplicados, marcas mais frequentes e outras métricas importantes.
 
+
 Com este projeto, você poderá:
 
+
 🔍 Visualizar distribuições e correlações entre variáveis
+
 📉 Analisar o impacto de descontos na nota dos produtos
+
 🏷️ Identificar marcas mais populares
+
 👥 Entender a distribuição por gênero dos compradores
+
 📊 Explorar densidade e regressões nas avaliações
+
 
 🧠 Etapas do Projeto:
 Leitura dos Dados
