@@ -3,12 +3,19 @@ Bem-vindo ao projeto de Dashboard Estatístico de E-commerce!
 Aqui você encontrará uma aplicação interativa que analisa dados de avaliações, descontos, marcas e gêneros dos produtos de um e-commerce, usando gráficos dinâmicos e informativos.
 
 ⚙️ Tecnologias e Ferramentas Utilizadas:
+
 🐍 Python – Linguagem principal do projeto
+
 📊 Pandas – Manipulação e análise dos dados
+
 📈 Plotly & Dash – Visualização interativa e dashboard web
+
 🎨 Seaborn & Matplotlib – Gráficos estatísticos e mapas de calor
+
 💾 CSV – Fonte dos dados para análise
+
 🔢 Numpy – Processamento numérico
+
 
 🎯 Objetivo do Projeto
 Construir um dashboard interativo para visualizar e explorar dados estatísticos de um e-commerce, facilitando a interpretação das avaliações dos produtos, descontos aplicados, marcas mais frequentes e outras métricas importantes.
